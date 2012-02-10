@@ -1,0 +1,7 @@
+nethttp is command line tool to detect network latency
+
+It uses curl to query the server. You can extend it to use any kind of service. By default it uses http or https. 
+The time measurs is returned in Real Time, User Time, System Time.
+
+It is nifty utility which can help to track down the bottle neck in the network
+
